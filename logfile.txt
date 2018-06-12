@@ -1,0 +1,311 @@
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+Couldn't open texture file. It doesn't exist: Textures\\MetalShetHangarTA.bmp
+Couldn't load texture file: Textures\\MetalShetHangarTA.bmp
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+Failed to open Binary file: Models\\MetalShetHangar.bin
+The model obj file: Models\\MetalShetHangar.obj doesn't have m_IndexedVertices, m_IndexedUnitNormals, or m_IndexedTextureUVs
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+Failed to open Binary file: Models\\MetalShetHangar.bin
+The model obj file: Models\\MetalShetHangar.obj doesn't have m_IndexedVertices, m_IndexedUnitNormals, or m_IndexedTextureUVs
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+Failed to open Binary file: Models\\MetalShetHangar.bin
+The model obj file: Models\\MetalShetHangar.obj doesn't have m_IndexedVertices, m_IndexedUnitNormals, or m_IndexedTextureUVs
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+Failed to open Binary file: Models\\MetalShetHangar.bin
+The model obj file: Models\\MetalShetHangar.obj doesn't have m_IndexedVertices, m_IndexedUnitNormals, or m_IndexedTextureUVs
+Creating shader: Shaders\phongTextureScaled2.vertCreating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+// A LOT OF MODELS USING THE SAME MODEL
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Failed to open Binary file: Models\\Barrel.bin
+Cannot find the model file: Models\\Barrel.obj
+Failed to open Binary file: Models\Default.bin
+Cannot find the model file: Models\Default.obj
+Couldn't find the default model .obj!
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\phongTextureScaled2.vert
+Shader compiled
+Creating shader: Shaders\phongTextureScaled2.frag
+Shader compiled
+Program valid
+Program created
+Creating shader: Shaders\skybox.vert
+Shader compiled
+Creating shader: Shaders\skybox.frag
+Shader compiled
+Program valid
+Program created

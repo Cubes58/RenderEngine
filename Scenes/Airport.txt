@@ -1,0 +1,144 @@
+m 	name- Terrain			group- Terrain		modelLocation- Models\\Terrain			textureLocation- Textures\\TerrainTA.bmp 		mipmaps- false 		position- 0.0 0.0 0.0		rotation- 0.0 0.0 0.0		
+m	name- Runway			group- Terrain		modelLocation- Models\\Runway			textureLocation- Textures\\RunwayTA.bmp			mipmaps- true		position- 0.0 0.3 -2.0		rotation- 0.0 0.0 0.0
+m	name- Helipad 			group- Terrain		modelLocation- Models\\Helipad			textureLocation- Textures\\HelipadTA.bmp		mipmaps- true		position- -87.5 1.5 -65.0	rotation- 0.0 90.0 0.0
+m	name- Trees			group- Terrain		modelLocation- Models\\Trees			textureLocation- Textures\\TreesTA.bmp			mipmaps- true		position- 110.0 0.0 -20.0 	rotation- 0.0 -50.0 0.0
+m	name- AirportGroundMap		group- Terrain		modelLocation- Models\\AirportGroundMap		textureLocation- Textures\\AirportGroundMapTA.bmp	mipmaps- true		position- 9.0 0.0 -115.0	rotation- 0.0 90.0 0.0		scale- 1.5 3.0 2.5
+m	name- Ground			group- Terrain		modelLocation- Models\\Ground			textureLocation- Textures\\SandPatternGroundTA.bmp	mipmaps- true		position- 0.0 0.25 0.0		scale- 5.0 1.0 5.0
+
+// Lighting for groups (don't want to use the default lighting for these model groups).
+l	group- Terrain			specularIntensity- 0.0
+
+m	name- MetalSheetHangarStandalone	modelLocation- Models\\MetalSheetHangarStandalone	textureLocation- Textures\\MetalSheetHangarStandaloneTA.bmp	mipmaps- true			position- 95.0 0.3 -90.0		rotation- 0.0 90.0 0.0 		scale-	1.2 1.2 1.2
+
+m	name- Airplane_Cessna1		modelLocation- Models\\Cessna172_Plane		textureLocation- Textures\\Cessna172_PlaneTA.bmp	mipmaps- true		position- 95.0 0.31 -90.0	rotation- 0.0 0.0 0.0		scale- 0.75 0.75 0.75
+m	name- MetalSheetHangar		modelLocation- Models\\MetalSheetHangar		textureLocation- Textures\\MetalSheetHangarTA.bmp	mipmaps- true		position- 95.0 0.3 -65.0	rotation- 0.0 90.0 0.0		scale- 1.2 1.2 1.2
+m	name- Airplane_P51Mustang	modelLocation- Models\\P51Mustang_Plane		textureLocation- Textures\\P51Mustang_PlaneTA.bmp	mipmaps- true		position- 95.0 0.3 -65.0	rotation- 0.0 90.0 0.0
+m	name- Airplane_Cessna2		modelLocation- Models\\Cessna172_Plane		textureLocation- Textures\\Cessna172_PlaneTA.bmp	mipmaps- true		position- 52.5 22.5 190.0	rotation- 0.0 270.0 12.5	scale- 0.75 0.75 0.75
+m	name- Airplane_JU80		modelLocation- Models\\JU80_Plane		textureLocation- Textures\\JU80_PlaneTA.bmp		mipmaps- true		position- 30.0 0.3 -95.0	rotation- 0.0 0.0 0.0		scale- 0.75 0.75 0.75
+m	name- AH_24B1			modelLocation- Models\\AH_24B			textureLocation- Textures\\AH_24BTA.bmp			mipmaps- true		position- -12.5 35.0 235.0	rotation- -6.5 -90.0 0.0	scale- 0.8 0.8 0.8
+m	name- AirControlTower		modelLocation- Models\\AirControlTower		textureLocation- Textures\\AirControlTowerTA.bmp	mipmaps- true		position- -80.0 0.3 0.0		rotation- 0.0 90.0 0.0		scale- 1.3 1.0 1.3
+m	name- StorageBuilding1		modelLocation- Models\\BrickShed		textureLocation- Textures\\BrickShedTA.bmp		mipmaps- true		position- 100.0 0.0 120.0	rotation- 0.0 0.0 0.0
+m	name- StorageBuilding2		modelLocation- Models\\BrickShed		textureLocation- Textures\\BrickShedTA.bmp		mipmaps- true		position- 120.0 0.0 120.0	rotation- 0.0 0.0 0.0
+m	name- AttackHelicopter		modelLocation- Models\\AttackHelicopter		textureLocation- Textures\\AttackHelicopterTA.bmp	mipmaps- true		position- -85.0 1.83 -65.0	rotation- 0.0 90.0 0.0
+m	name- AH_24B2			modelLocation- Models\\AH_24B			textureLocation- Textures\\AH_24BTA.bmp			mipmaps- true		position- -58.0 0.272 50.0	rotation- 0.0 240.0 0.0		scale- 0.75 0.75 0.75
+m	name- WatchTower		modelLocation- Models\\WatchTower		textureLocation- Textures\\WatchTowerTA.bmp		mipmaps- true		position- -62.5 0.33 95.0	rotation- 0.0 0.0 0.0		scale- 0.75 0.75 0.75
+m	name- FuelTank			modelLocation- Models\\FuelTank			textureLocation- Textures\\FuelTankTA.bmp		mipmaps- true		position- 95.0 -0.05 -104.7	rotation- 0.0 -90.0 0.0
+m	name- Piper_pa18		modelLocation- Models\\Piper_pa18		textureLocation- Textures\\Piper_pa18TA.bmp		mipmaps- true		position- -80.0 0.5 -30.0	rotation- 0.0 90.0 0.0		scale- 2.0 2.0 2.0
+
+// Barrels
+// Barrel Set One
+m	name- Barrel1			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 110.0		scale- 0.8 0.8 0.8	rotation- 0.0 38.0 0.0
+m	name- Barrel2			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 111.65		scale- 0.8 0.8 0.8	rotation- 0.0 325.0 0.0
+m	name- Barrel3			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 113.3		scale- 0.8 0.8 0.8	rotation- 0.0 146.0 0.0
+m	name- Barrel4			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 114.95		scale- 0.8 0.8 0.8	rotation- 0.0 10.0 0.0
+m	name- Barrel5			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 116.6		scale- 0.8 0.8 0.8	rotation- 0.0 47.0 0.0
+m	name- Barrel6			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 118.25		scale- 0.8 0.8 0.8	rotation- 0.0 51.0 0.0
+m	name- Barrel7			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 119.9		scale- 0.8 0.8 0.8	rotation- 0.0 198.0 0.0
+m	name- Barrel8			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 121.55		scale- 0.8 0.8 0.8	rotation- 0.0 97.0 0.0
+m	name- Barrel9			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 123.2		scale- 0.8 0.8 0.8	rotation- 0.0 326.0 0.0
+m	name- Barrel10			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 124.85		scale- 0.8 0.8 0.8	rotation- 0.0 147.0 0.0
+m	name- Barrel11			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 126.5		scale- 0.8 0.8 0.8	rotation- 0.0 332.0 0.0
+m	name- Barrel12			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 93.6 0.0 128.15		scale- 0.8 0.8 0.8	rotation- 0.0 312.0 0.0
+
+// Barrel Set Two
+m	name- Barrel13			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 110.0		scale- 0.8 0.8 0.8	rotation- 0.0 134.0 0.0
+m	name- Barrel14			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 111.65		scale- 0.8 0.8 0.8	rotation- 0.0 32.0 0.0
+m	name- Barrel15			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 113.3		scale- 0.8 0.8 0.8	rotation- 0.0 280.0 0.0
+m	name- Barrel16			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 114.95		scale- 0.8 0.8 0.8	rotation- 0.0 29.0 0.0
+m	name- Barrel17			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 116.6		scale- 0.8 0.8 0.8	rotation- 0.0 349.0 0.0
+m	name- Barrel18			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 118.25		scale- 0.8 0.8 0.8	rotation- 0.0 173.0 0.0
+m	name- Barrel19			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 119.9		scale- 0.8 0.8 0.8	rotation- 0.0 324.0 0.0
+m	name- Barrel20			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 121.55		scale- 0.8 0.8 0.8	rotation- 0.0 189.0 0.0
+m	name- Barrel21			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 123.2		scale- 0.8 0.8 0.8	rotation- 0.0 357.0 0.0
+m	name- Barrel22			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 124.85		scale- 0.8 0.8 0.8	rotation- 0.0 158.0 0.0
+m	name- Barrel23			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 126.5		scale- 0.8 0.8 0.8	rotation- 0.0 29.0 0.0
+m	name- Barrel24			modelLocation- Models\\Barrel			textureLocation- Textures\\BarrelTA.bmp			mipmaps- true		position- 126.5 0.0 128.15		scale- 0.8 0.8 0.8	rotation- 0.0 282.0 0.0
+
+// Birds
+m	name- Eagle1			modelLocation- Models\\Eagle			textureLocation- Textures\\EagleTA.bmp			mipmaps- true		position- 40.0 75.0 0.0		rotation- 0.0 0.0 7.0
+m	name- Eagle2			modelLocation- Models\\Eagle			textureLocation- Textures\\EagleTA.bmp			mipmaps- true		position- 60.0 100.0 10.0	rotation- 0.0 0.0 10.0
+m	name- Eagle3			modelLocation- Models\\Eagle			textureLocation- Textures\\EagleTA.bmp			mipmaps- true		position- -60.0 90.0 10.0	rotation- -5.0 90.0 0.5
+m	name- Eagle4			modelLocation- Models\\Eagle			textureLocation- Textures\\EagleTA.bmp			mipmaps- true		position- 120.0 120.0 -50.0	rotation- 20.0 90.0 2.0
+
+// Bushes
+m	name- Bushes1			group- Terrain		modelLocation- Models\\Bushes			textureLocation- Textures\\BushesTA.bmp			mipmaps- true		position- 20.0 0.0 80.0		rotation- 0.0 0.0 0.0
+m	name- Bushes2			group- Terrain		modelLocation- Models\\Bushes			textureLocation- Textures\\BushesTA.bmp			mipmaps- true		position- 20.0 0.0 40.0		rotation- 0.0 45.0 0.0
+m	name- Bushes3			group- Terrain		modelLocation- Models\\Bushes			textureLocation- Textures\\BushesTA.bmp			mipmaps- true		position- 20.0 0.0 140.0	rotation- 0.0 195.0 0.0
+m	name- Bushes4			group- Terrain		modelLocation- Models\\Bushes			textureLocation- Textures\\BushesTA.bmp			mipmaps- true		position- 90.0 0.0 100.0	rotation- 0.0 75.0 0.0
+m	name- Bushes5			group- Terrain		modelLocation- Models\\Bushes			textureLocation- Textures\\BushesTA.bmp			mipmaps- true		position- 130.0 0.0 100.0	rotation- 0.0 -75.0 0.0
+m	name- Bushes6			group- Terrain		modelLocation- Models\\Bushes			textureLocation- Textures\\BushesTA.bmp			mipmaps- true		position- -110.0 0.0 -80.0	rotation- 0.0 -215.0 0.0
+m	name- Bushes7			group- Terrain		modelLocation- Models\\Bushes			textureLocation- Textures\\BushesTA.bmp			mipmaps- true		position- -110.0 0.5 -50.0	rotation- 0.0 -75.0 0.0
+
+m	name- Bush1			group- Terrain		modelLocation- Models\\Bush			textureLocation- Textures\\BushTA.bmp			mipmaps- true		position- 200.0 9.0 0.0		rotation- 0.0 10.0 0.0
+m	name- Bush2			group- Terrain		modelLocation- Models\\Bush			textureLocation- Textures\\BushTA.bmp			mipmaps- true		position- -45.0 0.0 -120.0	rotation- 0.0 70.0 0.0
+m	name- Bush3			group- Terrain		modelLocation- Models\\Bush			textureLocation- Textures\\BushTA.bmp			mipmaps- true		position- 25.0 1.0 -120.0	rotation- 0.0 225.0 0.0
+m	name- Bush4			group- Terrain		modelLocation- Models\\Bush			textureLocation- Textures\\BushTA.bmp			mipmaps- true		position- 80.5 0.0 -44.5	rotation- 0.0 310.0 0.0
+m	name- Bush5			group- Terrain		modelLocation- Models\\Bush			textureLocation- Textures\\BushTA.bmp			mipmaps- true		position- 110.0 0.0 100.0	rotation- 0.0 50.0 0.0
+m	name- Bush6			group- Terrain		modelLocation- Models\\Bush			textureLocation- Textures\\BushTA.bmp			mipmaps- true		position- 110.0 0.75 140.0	rotation- 0.0 50.0 0.0
+m	name- Bush7			group- Terrain		modelLocation- Models\\Bush			textureLocation- Textures\\BushTA.bmp			mipmaps- true		position- 90.0 0.0 140.0	rotation- 0.0 90.0 0.0
+
+// Cactus
+m	name- Cactus1			group- Terrain		modelLocation- Models\\Cactus			textureLocation- Textures\\CactusTA.bmp			mipmaps- true		position- -200.0 10.0 0.0	rotation- 0.0 -25.0 0.0		scale 1.0 1.0 1.0
+m	name- Cactus2			group- Terrain		modelLocation- Models\\Cactus			textureLocation- Textures\\CactusTA.bmp			mipmaps- true		position- 200.0 16.5 40.0	rotation- 0.0 155.0 0.0		scale 1.0 1.0 1.0
+m	name- Cactus3			group- Terrain		modelLocation- Models\\Cactus			textureLocation- Textures\\CactusTA.bmp			mipmaps- true		position- 185.0 6.0 -57.0	rotation- 0.0 -270.0 0.0	scale 1.0 1.0 1.0
+m	name- Cactus4			group- Terrain		modelLocation- Models\\Cactus			textureLocation- Textures\\CactusTA.bmp			mipmaps- true		position- -160.0 18.5 -52.0	rotation- 0.0 10.0 0.0		scale 1.0 1.0 1.0
+m	name- Cactus5			group- Terrain		modelLocation- Models\\Cactus			textureLocation- Textures\\CactusTA.bmp			mipmaps- true		position- 160.0 11.2 160.0	rotation- 0.0 0.0 0.0		scale 1.0 1.0 1.0
+m	name- Cactus6			group- Terrain		modelLocation- Models\\Cactus			textureLocation- Textures\\CactusTA.bmp			mipmaps- true		position- -170.0 9.0 175.0	rotation- 0.0 -90.0 0.0		scale 1.0 1.0 1.0
+m	name- Cactus7			group- Terrain		modelLocation- Models\\Cactus			textureLocation- Textures\\CactusTA.bmp			mipmaps- true		position- -40.0 11.3 -185.0	rotation- 0.0 167.0 0.0		scale 1.0 1.0 1.0
+m	name- Cactus8			group- Terrain		modelLocation- Models\\Cactus			textureLocation- Textures\\CactusTA.bmp			mipmaps- true		position- 50.0 17.0 -170.0	rotation- 0.0 -345.0 0.0	scale 1.0 1.0 1.0
+
+// Fences - Width = 18.15.
+m	name- Wirefence1		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -70.5 0.0 110.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence2		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -80.0 0.0 100.5	rotation- 0.0 90.0 0.0
+m	name- Wirefence3		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -80.0 0.0 82.35	rotation- 0.0 90.0 0.0
+m	name- Wirefence4		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -80.0 0.0 64.2	rotation- 0.0 90.0 0.0
+m	name- Wirefence5		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -80.0 0.0 46.05	rotation- 0.0 90.0 0.0
+m	name- Wirefence6		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -89.0 0.0 37.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence7		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -107.15 0.0 37.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence8		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -116.9 0.0 27.25	rotation- 0.0 90.0 0.0
+m	name- Wirefence9		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -116.9 0.0 9.1	rotation- 0.0 90.0 0.0
+m	name- Wirefence10		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -116.9 0.0 -9.05	rotation- 0.0 90.0 0.0
+m	name- Wirefence11		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -116.9 0.0 -27.2	rotation- 0.0 90.0 0.0
+m	name- Wirefence12		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -116.9 0.0 -45.35	rotation- 0.0 90.0 0.0
+m	name- Wirefence13		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -116.9 0.0 -63.5	rotation- 0.0 90.0 0.0
+m	name- Wirefence14		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -116.9 0.0 -81.65	rotation- 0.0 90.0 0.0
+m	name- Wirefence15		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -116.9 0.0 -99.8	rotation- 0.0 90.0 0.0
+m	name- Wirefence16		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -107.23 0.0 -108.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence17		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -89.0 0.0 -108.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence18		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -70.5 0.0 -108.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence19		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -61.45 0.0 -117.6	rotation- 0.0 90.0 0.0
+m	name- Wirefence20		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -52.0 0.0 -126.7	rotation- 0.0 0.0 0.0
+m	name- Wirefence21		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -33.85 0.0 -126.7	rotation- 0.0 0.0 0.0
+//m	name- Wirefence22		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -15.7  0.0 -126.7	rotation- 0.0 0.0 0.0
+//m	name- Wirefence23		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  2.45  0.0 -126.7	rotation- 0.0 0.0 0.0
+m	name- Wirefence24		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  20.35 0.0 -126.7	rotation- 0.0 0.0 0.0
+m	name- Wirefence25		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  38.75 0.0 -126.7	rotation- 0.0 0.0 0.0
+m	name- Wirefence26		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  56.9  0.0 -126.7	rotation- 0.0 0.0 0.0
+m	name- Wirefence27		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  75.05 0.0 -126.7	rotation- 0.0 0.0 0.0
+m	name- Wirefence28		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  93.2  0.0 -126.7	rotation- 0.0 0.0 0.0
+m	name- Wirefence29		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  111.35 0.0 -126.7	rotation- 0.0 0.0 0.0
+m	name- Wirefence30		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  129.5  0.0 -126.7	rotation- 0.0 0.0 0.0
+m	name- Wirefence31		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  138.6  0.0 -117.63	rotation- 0.0 90.0 0.0
+m	name- Wirefence32		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  138.6  0.0 -99.48	rotation- 0.0 90.0 0.0
+m	name- Wirefence33		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  138.6  0.0 -81.33	rotation- 0.0 90.0 0.0
+m	name- Wirefence34		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  138.6  0.0 -63.18	rotation- 0.0 90.0 0.0
+m	name- Wirefence35		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  138.6  0.0 -45.03	rotation- 0.0 90.0 0.0
+m	name- Wirefence36		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  138.6  0.0 -26.88	rotation- 0.0 90.0 0.0
+m	name- Wirefence37		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  138.6  0.0 -8.73	rotation- 0.0 90.0 0.0
+m	name- Wirefence38		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  138.6  0.0  9.42	rotation- 0.0 90.0 0.0
+m	name- Wirefence39		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  148.0  0.0  18.9	rotation- 0.0 0.0 0.0
+m	name- Wirefence40		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  157.1  0.0  28.0	rotation- 0.0 90.0 0.0
+m	name- Wirefence41		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  157.1  0.0  46.15	rotation- 0.0 90.0 0.0
+//m	name- Wirefence42		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  157.1  0.0  64.3	rotation- 0.0 90.0 0.0
+//m	name- Wirefence43		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  157.1  0.0  100.6	rotation- 0.0 90.0 0.0
+m	name- Wirefence44		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  157.1  0.0  118.75	rotation- 0.0 90.0 0.0
+m	name- Wirefence45		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  157.1  0.0  136.9	rotation- 0.0 90.0 0.0
+m	name- Wirefence46		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  148.1  0.0  146.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence47		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  129.9  0.0  146.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence48		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  111.75  0.0  146.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence49		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  93.6  0.0  146.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence50		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position-  84.0  0.0  155.1	rotation- 0.0 90.0 0.0
+m	name- Wirefence51		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -52.3 0.0 110.0	rotation- 0.0 0.0 0.0
+m	name- Wirefence52		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -43.3 0.0 119.1	rotation- 0.0 90.0 0.0
+m	name- Wirefence53		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -43.3 0.0 137.3	rotation- 0.0 90.0 0.0
+m	name- Wirefence54		modelLocation- Models\\Wirefence		textureLocation- Textures\\WirefenceTA.bmp		mipmaps- true		position- -43.3 0.0 155.5	rotation- 0.0 90.0 0.0
